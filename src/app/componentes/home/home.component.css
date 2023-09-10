@@ -1,0 +1,8 @@
+#imagen01 {
+    width: 105%;
+    height: 450px;
+    
+  }
+  .card-body:hover{
+    transform: scale(0.9);
+  }

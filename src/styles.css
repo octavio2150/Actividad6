@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url(https://www.xtrafondos.com/wallpapers/soldado-de-battlefield-2042-7962.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body{
+    img {
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+        object-position: bottom;
+      }
+}
